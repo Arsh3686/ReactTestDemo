@@ -122,3 +122,13 @@ nav button:hover {
 		display: block;
 	}
 }
+@media (max-width: 468px) {
+	.footer {
+		word-wrap: break-word;
+		font-size: 11px;
+		padding-left: 0;
+	}
+	.footerPadding {
+		width: 90vw;
+	}
+}
